@@ -1,0 +1,1 @@
+Projeto de autenticação de usuário usando o JWT, MongoBD e Mongoose.
